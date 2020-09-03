@@ -10,7 +10,7 @@
   "author": "Edward Siwady",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.3.2",
+    "@hapi/hapi": "^19.1.1",
     "mongodb": "^3.3.2",
     "mongojs": "^2.6.0"
   }
